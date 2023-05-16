@@ -1,3 +1,8 @@
+## [1.0.1] - 2023-05-16
+
+  * updates CI, minimal Ruby version now 2.7, updates tooling like rubocop and GitHub actions
+  * adds support for Ruby 3.2
+
 ## [1.0.0] - 2018-03-06
 
   * Fix duplication of points on appending segment to track (#20 via @niborg)
